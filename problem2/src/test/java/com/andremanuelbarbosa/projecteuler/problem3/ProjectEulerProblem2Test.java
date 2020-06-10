@@ -1,4 +1,4 @@
-package com.andremanuelbarbosa.projecteuler.problem2;
+package com.andremanuelbarbosa.projecteuler.problem3;
 
 import org.junit.Before;
 import org.junit.Test;
