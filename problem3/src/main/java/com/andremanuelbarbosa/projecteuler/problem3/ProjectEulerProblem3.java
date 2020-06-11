@@ -11,6 +11,7 @@ public class ProjectEulerProblem3 {
                 return false;
             }
         }
+
         return true;
     }
 
