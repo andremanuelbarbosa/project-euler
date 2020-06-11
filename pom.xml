@@ -13,6 +13,7 @@
         <module>problem2</module>
         <module>problem3</module>
         <module>problem4</module>
+        <module>problem5</module>
     </modules>
 
     <properties>
