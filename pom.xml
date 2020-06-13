@@ -23,6 +23,7 @@
         <module>problem12</module>
         <module>problem13</module>
         <module>problem14</module>
+        <module>problem15</module>
     </modules>
 
     <properties>
